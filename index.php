@@ -30,22 +30,20 @@
 </nav>
   <!--navbar -->
 
-    <div class="container">
+  <div class="container">
       <div class="games my-5">
         <div class="game-card">
           <div class="game-card-image">
             <img
-              src="https://picsum.photos/300/200"
+              src="https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg?t=1615811936"
               alt="game"
               loading="lazy"
             />
           </div>
           <div class="game-card-description">
-            <p class="game-card-title">GAME</p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis impedit incidunt tempore qui. Quaerat id molestiae
-            quisquam unde, consequatur mollitia expedita, fugit perspiciatis non
-            facilis eveniet nesciunt sint laudantium eos.
+            <p class="game-card-title">Cyberpunk 2077</p>
+            Cyberpunk 2077 เป็นเกมแนวแอ็คชันผจญภัยแบบโลกเปิดที่มีเนื้อเรื่องอยู่ในเมืองไนท์ซิตี้
+            มหานครที่เต็มไปด้วยอำนาจ เสน่ห์ และการดัดแปลงร่างกาย คุณจะได้รับบทเป็นวี...
           </div>
           <div class="game-card-actions">
             <button class="game-card-buy"><a href="insertdata.php?idp=1" onclick="return confirm('ต้องการซื้อจริงๆหรือไม่?')">ซื้อ</a></button>
@@ -56,17 +54,15 @@
         <div class="game-card">
           <div class="game-card-image">
             <img
-              src="https://picsum.photos/150/200"
+              src="https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg?t=1618856444"
               alt="game"
               loading="lazy"
             />
           </div>
           <div class="game-card-description">
-            <p class="game-card-title">GAME</p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis impedit incidunt tempore qui. Quaerat id molestiae
-            quisquam unde, consequatur mollitia expedita, fugit perspiciatis non
-            facilis eveniet nesciunt sint laudantium eos.
+            <p class="game-card-title">Grand Theft Auto V</p>
+            When a young street hustler, a retired bank robber 
+            and a terrifying psychopath find themselves entangled... 
           </div>
           <div class="game-card-actions">
             <button class="game-card-buy"><a href="insertdata.php?idp=2" onclick="return confirm('ต้องการซื้อจริงๆหรือไม่?')">ซื้อ</a></button>
@@ -77,87 +73,21 @@
         <div class="game-card">
           <div class="game-card-image">
             <img
-              src="https://picsum.photos/150/200"
+              src="https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg?t=1617258628"
               alt="game"
               loading="lazy"
             />
           </div>
           <div class="game-card-description">
-            <p class="game-card-title">GAME</p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis impedit incidunt tempore qui. Quaerat id molestiae
-            quisquam unde, consequatur mollitia expedita, fugit perspiciatis non
-            facilis eveniet nesciunt sint laudantium eos.
+            <p class="game-card-title">Valheim</p>
+            Your trials begin at the disarmingly peaceful centre of Valheim, 
+            but the gods reward the brave and glory awaits... 
           </div>
           <div class="game-card-actions">
             <button class="game-card-buy"><a href="insertdata.php?idp=3" onclick="return confirm('ต้องการซื้อจริงๆหรือไม่?')">ซื้อ</a></button>
             <button class="game-card-view"><a href="gamedescript.php?idp=3">รายละเอียดเพิ่มเติม</a></button>
           </div>
         </div>
-
-        <div class="game-card">
-          <div class="game-card-image">
-            <img
-              src="https://picsum.photos/150/200"
-              alt="game"
-              loading="lazy"
-            />
-          </div>
-          <div class="game-card-description">
-            <p class="game-card-title">GAME</p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis impedit incidunt tempore qui. Quaerat id molestiae
-            quisquam unde, consequatur mollitia expedita, fugit perspiciatis non
-            facilis eveniet nesciunt sint laudantium eos.
-          </div>
-          <div class="game-card-actions">
-            <button class="game-card-buy"><a href="insertdata.php?idp=4" onclick="return confirm('ต้องการซื้อจริงๆหรือไม่?')">ซื้อ</a></button>
-            <button class="game-card-view"><a href="gamedescript.php?idp=4">รายละเอียดเพิ่มเติม</a></button>
-          </div>
-        </div>
-
-        <div class="game-card">
-          <div class="game-card-image">
-            <img
-              src="https://picsum.photos/150/200"
-              alt="game"
-              loading="lazy"
-            />
-          </div>
-          <div class="game-card-description">
-            <p class="game-card-title">GAME</p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis impedit incidunt tempore qui. Quaerat id molestiae
-            quisquam unde, consequatur mollitia expedita, fugit perspiciatis non
-            facilis eveniet nesciunt sint laudantium eos.
-          </div>
-          <div class="game-card-actions">
-            <button class="game-card-buy"><a href="insertdata.php?idp=5" onclick="return confirm('ต้องการซื้อจริงๆหรือไม่?')">ซื้อ</a></button>
-            <button class="game-card-view"><a href="gamedescript.php?idp=5">รายละเอียดเพิ่มเติม</a></button>
-          </div>
-        </div>
-
-        <div class="game-card">
-          <div class="game-card-image">
-            <img
-              src="https://picsum.photos/150/200"
-              alt="game"
-              loading="lazy"
-            />
-          </div>
-          <div class="game-card-description">
-            <p class="game-card-title">GAME</p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Perspiciatis impedit incidunt tempore qui. Quaerat id molestiae
-            quisquam unde, consequatur mollitia expedita, fugit perspiciatis non
-            facilis eveniet nesciunt sint laudantium eos.
-          </div>
-          <div class="game-card-actions">
-            <button class="game-card-buy"><a href="insertdata.php?idp=6" onclick="return confirm('ต้องการซื้อจริงๆหรือไม่?')">ซื้อ</a></button>
-            <button class="game-card-view"><a href="gamedescript.php?idp=6">รายละเอียดเพิ่มเติม</a></button>
-          </div>
-        </div>
-      </div>
       <!-- games -->
     </div>
     <!-- container -->
