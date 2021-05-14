@@ -109,7 +109,7 @@
           <label for="remember-me">Remember me</label>
         </div>
         <div class="form-element">
-          <button><a href="afterlogin.html">Sign in</a></button>
+          <button><a href="afterlogin.php">Sign in</a></button>
         </div>
         <div class="form-element">
           <a href="#">Forgot password?</a>
